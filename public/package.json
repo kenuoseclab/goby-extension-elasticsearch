@@ -1,0 +1,24 @@
+{
+  "name": "Elasticsearch未授权漏洞利用",
+  "publisher": "Faz",
+  "description": "Elasticsearch未授权漏洞利用工具，查看indices信息。",
+  "version": "0.1.0",
+  "icon": "./favicon.ico",
+  "engines": "1.6.170",
+  "initEvents": "",
+  "main": "./extension.js",
+  "contributes": {
+    "views": {
+      "vulList": [
+        {
+          "command": "elastic",
+          "title": "Indices",
+          "visible": "elastic_visi"
+        }
+      ]
+    }
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
