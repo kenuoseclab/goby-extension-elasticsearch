@@ -5,4 +5,4 @@
 
 > Github: https://github.com/fazzzzzzz/goby-extension-elasticsearch
 
-![](https://raw.githubusercontent.com/fazzzzzzz/goby-extension-elasticsearch/img/demo.gif)
+![](https://github.com/fazzzzzzz/goby-extension-elasticsearch/raw/master/img/demo.gif)
